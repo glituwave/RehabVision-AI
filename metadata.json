@@ -1,0 +1,6 @@
+{
+  "name": "RehabVision AI — Smart Rehabilitation Platform",
+  "description": "Computer Vision Assisted Smart Rehabilitation and Physical Therapy Monitoring Platform with real-time pose tracking, exercise angle analysis, and therapist oversight.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
